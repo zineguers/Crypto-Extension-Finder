@@ -19,7 +19,7 @@ Perfect for security analysts, incident responders, or anyone quickly validating
 
 ## Screenshot
 
-*(Add a screenshot here once uploaded — recommended: run the tool and capture the main window with a sample check)*
+<img width="958" height="602" alt="Screenshot" src="https://github.com/user-attachments/assets/142635cd-7383-4333-a0e3-3b044679d6f2" />
 
 ## Requirements
 
