@@ -19,7 +19,7 @@ Perfect for security analysts, incident responders, or anyone quickly validating
 
 ## Screenshot
 
-<img width="958" height="602" alt="Screenshot" src="https://github.com/user-attachments/assets/142635cd-7383-4333-a0e3-3b044679d6f2" />
+<img width="1043" height="697" alt="image" src="https://github.com/user-attachments/assets/77f95feb-ab1d-4f57-9d76-7494026aaa7f" />
 
 ## Requirements
 
